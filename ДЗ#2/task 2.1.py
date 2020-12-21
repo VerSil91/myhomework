@@ -8,3 +8,4 @@ def my_type(el):
 
 
 my_type(my_list)
+
